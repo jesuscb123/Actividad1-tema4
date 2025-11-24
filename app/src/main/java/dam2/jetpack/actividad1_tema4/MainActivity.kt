@@ -73,7 +73,7 @@ fun IniciarApp(){
                             horizontalAlignment = Alignment.CenterHorizontally,
                             verticalArrangement = Arrangement.Center){
                             Text("Sonido largo")
-                            SonidoLargo("https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4")
+                            SonidoLargo("https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3")
                         }
                     }
 
